@@ -1,0 +1,64 @@
+
+* {
+    color: black;
+    font-weight: bold;
+}
+
+p, span {
+    color:blue;
+    width: 1200px;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+section {
+    width: 300px;
+    border: 5px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+#mi_parrafo {
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    border: 1px solid orchid;
+}
+
+.dirección {
+    font-weight: bold;
+    color: red;
+}
+
+body {
+    background-color: burlywood;
+    color: black;
+}
